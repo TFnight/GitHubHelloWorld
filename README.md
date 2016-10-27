@@ -56,14 +56,15 @@ GitHub中文引導
 
 恭喜!!!
 
-    完成教學了，你已經學會在GitHub創立一個專案並且使用pull request。
-    以下是這篇教學中你完成的:
+   完成教學了，你已經學會在GitHub創立一個專案並且使用pull request。
+   以下是這篇教學中你完成的:
     
-    *建立一個開源庫
-    *開始並管理一個新的分支
-    *改變檔案並提交至GitHub
-    *開啟並合併一個pull request
+   *建立一個開源庫
+   *開始並管理一個新的分支
+   *改變檔案並提交至GitHub
+   *開啟並合併一個pull request
      
-     如你想學習更多有關pull request的威力，建議閱讀GitHub flow guide。
-     你也應該參觀GitHub Explore並且投入一個開源專案
-     TIP : 查看我們其他的Guides和YouTube Channel瞭解更多Github能做的事。
+    如你想學習更多有關pull request的威力，建議閱讀GitHub flow guide。
+    你也應該參觀GitHub Explore並且投入一個開源專案
+   
+    TIP : 查看我們其他的Guides和YouTube Channel瞭解更多Github能做的事。
