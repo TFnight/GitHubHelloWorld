@@ -1,8 +1,9 @@
-# GitHubHelloWorld
-##GitHub中文引導
+#GitHub中文引導
+
 
 ##GitHub是甚麼?
 ###一個具版本控制、協作code的託管平台。
+
 
 >##第一步，建立一個庫(容器Repository)
 >>###庫(容器)常用來組織一個專案。
